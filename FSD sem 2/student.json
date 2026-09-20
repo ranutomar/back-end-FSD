@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 18,
+    "gender": "Female",
+    "grade": "12",
+    "email": "alice.johnson@example.com",
+    "phone": "9876543210",
+    "city": "New York",
+    "subjects": ["Math", "Physics", "Chemistry"],
+    "gpa": 3.9
+  },
+  {
+    "id": 2,
+    "name": "Brian Smith",
+    "age": 17,
+    "gender": "Male",
+    "grade": "11",
+    "email": "brian.smith@example.com",
+    "phone": "9876543211",
+    "city": "Chicago",
+    "subjects": ["English", "History", "Biology"],
+    "gpa": 3.7
+  },
+  {
+    "id": 3,
+    "name": "Catherine Lee",
+    "age": 18,
+    "gender": "Female",
+    "grade": "12",
+    "email": "catherine.lee@example.com",
+    "phone": "9876543212",
+    "city": "Los Angeles",
+    "subjects": ["Math", "Computer Science", "Physics"],
+    "gpa": 4.0
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "age": 16,
+    "gender": "Male",
+    "grade": "10",
+    "email": "david.brown@example.com",
+    "phone": "9876543213",
+    "city": "Houston",
+    "subjects": ["Chemistry", "Biology", "Math"],
+    "gpa": 3.5
+  },
+  {
+    "id": 5,
+    "name": "Emma Wilson",
+    "age": 17,
+    "gender": "Female",
+    "grade": "11",
+    "email": "emma.wilson@example.com",
+    "phone": "9876543214",
+    "city": "Phoenix",
+    "subjects": ["English", "Art", "History"],
+    "gpa": 3.8
+  },
+  {
+    "id": 6,
+    "name": "Frank Miller",
+    "age": 18,
+    "gender": "Male",
+    "grade": "12",
+    "email": "frank.miller@example.com",
+    "phone": "9876543215",
+    "city": "Dallas",
+    "subjects": ["Physics", "Math", "Computer Science"],
+    "gpa": 3.6
+  },
+  {
+    "id": 7,
+    "name": "Grace Taylor",
+    "age": 16,
+    "gender": "Female",
+    "grade": "10",
+    "email": "grace.taylor@example.com",
+    "phone": "9876543216",
+    "city": "Seattle",
+    "subjects": ["Biology", "Chemistry", "English"],
+    "gpa": 3.9
+  },
+  {
+    "id": 8,
+    "name": "Henry Anderson",
+    "age": 17,
+    "gender": "Male",
+    "grade": "11",
+    "email": "henry.anderson@example.com",
+    "phone": "9876543217",
+    "city": "Miami",
+    "subjects": ["History", "Political Science", "English"],
+    "gpa": 3.4
+  },
+  {
+    "id": 9,
+    "name": "Isabella Thomas",
+    "age": 18,
+    "gender": "Female",
+    "grade": "12",
+    "email": "isabella.thomas@example.com",
+    "phone": "9876543218",
+    "city": "Boston",
+    "subjects": ["Math", "Economics", "Statistics"],
+    "gpa": 3.95
+  },
+  {
+    "id": 10,
+    "name": "Jack Martinez",
+    "age": 16,
+    "gender": "Male",
+    "grade": "10",
+    "email": "jack.martinez@example.com",
+    "phone": "9876543219",
+    "city": "San Francisco",
+    "subjects": ["Computer Science", "Math", "Physics"],
+    "gpa": 3.85
+  }
+]
