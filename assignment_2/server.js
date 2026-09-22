@@ -4,10 +4,10 @@ const app = express();
 
 const PORT = 3000;
 
-// Create an empty array for products
+
 const products = [];
 
-// Create 100 products
+
 for (let i = 1; i <= 100; i++) {
     products.push({
         id: i,
@@ -17,12 +17,12 @@ for (let i = 1; i <= 100; i++) {
     });
 }
 
-// GET all products
+
 app.get("/products", (req, res) => {
     res.json(products);
 });
 
-// GET a single product
+
 app.get("/products/:id", (req, res) => {
     const id = parseInt(req.params.id);
 
@@ -37,7 +37,7 @@ app.get("/products/:id", (req, res) => {
     res.json(product);
 });
 
-// Start the server
+
 app.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
 });
